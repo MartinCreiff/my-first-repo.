@@ -6,6 +6,8 @@
 - Python
 - C
 
+> I dont like C
+
 ---
 ### Hobbies
 - Video Games
