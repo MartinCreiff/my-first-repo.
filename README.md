@@ -1,2 +1,14 @@
 # my-first-repo.
-lab 5
+
+### Programming Languages
+- Arduino
+- Java
+- Python
+- C
+
+---
+### Hobbies
+- Video Games
+- Robotics
+
+
